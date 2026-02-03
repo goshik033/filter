@@ -1,5 +1,7 @@
 package ru.kolidgio.filter;
 
+import ru.kolidgio.filter.stats.StatsMode;
+
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.util.ArrayList;
